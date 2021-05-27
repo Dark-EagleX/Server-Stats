@@ -1,4 +1,4 @@
-const Settings = require('./Settings.json');
+const Settings = require('./Settings.json')
 const Discord = require('discord.js');
 const low = require('lowdb');
 const FileSync = require('lowdb/adapters/FileSync');
